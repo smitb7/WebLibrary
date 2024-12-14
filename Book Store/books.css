@@ -1,0 +1,251 @@
+.headtextdiv{
+    font-family: 'Roboto',sans-serif;
+    font-size: 60px;
+    text-align: center;
+    background-color: #003366;
+    font-weight: 700;
+    color:  #87CEEB;
+    /* width: 100%; */
+    top: 0;
+    left: 0;
+    /* border: 1px dotted black; */
+
+    
+}
+.navbar{
+    width: 1452px;
+    height: 90px;
+    background-color: #2D2D2D;
+    /* border: 1px solid red; */
+    display: flex;
+    color: #E0E0E0;
+    
+   
+}
+.logo{
+    width: 300px;
+    height: 90px;
+    /* border: 1px solid white; */
+  
+   
+    
+    
+
+}
+.logoimg{
+    width: 100%;
+    height: 100%;
+   
+}
+.menumain{
+    width: 800px;
+    height: 90px;
+    /* border: 1px solid black; */
+    display: flex;
+    margin-left: 400px;
+   
+}
+.innerdivmain{
+    width: 250px;
+    height: 90px;
+    /* border: 1px solid red; */
+    margin: auto;
+    font-size: 18px;
+    justify-content: center;
+    text-align: center;
+    border-radius: 20px;
+    
+
+}
+.centerpgmain{
+    width: 1452px;
+    height: 800px;
+    /* border: 1px solid black; */
+    display: flex;
+    background:rgb(45,45,45);
+
+}
+.halfmain{
+    width: 700px;
+    height: 800px;
+    /* border: 1px solid red; */
+}
+.imgl1{
+    width: 100%;
+    height: 100%;
+}
+.righthalf1{
+    width: 700px;
+    height: 700px;
+    /* border: 1px solid blue; */
+    margin-left: 50px;
+    margin-top: 50px;
+    border-radius: 250px;
+    margin-right: 30px;
+
+    
+}
+.rightimg{
+    width: 100%;
+    height: 100%;
+    border-radius: 250px;
+}
+.pg2{
+    width: 1452px;
+    height: 800px;
+    /* border: 1px solid black; */
+    background:rgb(45,45,45);
+    display: flex;
+    
+
+}
+
+/* -------------------- login container ------------------- */
+.leftmain{
+    height: 600px;
+    width: 685px;
+    /* border: 1px solid red; */
+    /* margin: auto; */
+    margin-top: 170px;
+
+}
+
+.login-container {
+    width: 100%;
+    max-width: 350px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+}
+
+
+.login-container {
+    width: 100%;
+    max-width: 450px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+    
+}
+
+h1 {
+    text-align: center;
+    color: #004d40;
+}
+
+input[type="text"], input[type="password"] {
+    width: 95%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #388e3c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #2c6b33;
+}
+
+.links {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.links a {
+    color: #1e88e5;
+}
+
+/* ------- pg2 left login form completed here -------- */
+
+.pg2halfright{
+    height: 800px;
+    width: 700px;
+    /* border: 1px solid red; */
+    margin-left: 90px;
+    margin-top: 50px;
+
+}
+.pg2imgright{
+    width: 100%;
+    height: 90%;
+    border-radius: 200px;
+
+}
+.pg3{
+    width: 1452px;
+    height: 800px;
+    /* border: 1px solid black; */
+    background:rgb(45,45,45);
+    display: flex;
+}
+.pg3leftmain{
+    height: 800px;
+    width: 700px;
+    /* border: 1px solid red; */
+    /* border-radius: 200px; */
+   
+}
+.innertext{
+    height: 70px;
+    width: 400px;
+    /* border: 1px solid red; */
+    text-align: center;
+    margin: auto;
+    margin-top: 70px;
+   
+    
+
+}
+.innerdetail{
+    height: 200px;
+    width: 400px;
+    /* border: 1px solid red; */
+    margin: auto;
+}
+.innerdetailmain{
+    height: 500px;
+    width: 500px;
+    /* border: 1px solid red; */
+    margin: auto;
+    margin-top: 200px;
+}
+.pg3rightmain{
+    height: 800px;
+    width: 700px;
+    /* border: 1px solid red; */
+    margin-left: 20px;
+    border-radius: 300px;
+}
+.pgrightimg{
+    height: 90%;
+    width: 100%;
+    border-radius: 200px;
+
+
+}
+.pg4{
+    width: 100%;
+    height: 800px;
+    /* border: 1px solid black; */
+    background:rgb(45,45,45);
+    display: flex;
+}
+.tqvid{
+    width: 100%;
+    height: 100%;
+}
